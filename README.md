@@ -1,5 +1,6 @@
 # vagrant-centos-59-32bit-lamp
-++++++++++++++++++++++++++++++++++++
+![Open cmd here](https://github.com/dimpu/vagrant-centos-59-32bit-lamp/raw/master/src/imgs/Vagrant.png )
+
 
 ##What is Vagrant?
 There are so many tutorials available on the net to get started got to http://vagrantup.com.
