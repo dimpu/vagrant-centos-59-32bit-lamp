@@ -9,11 +9,11 @@ Vagrant work with Linux boxes. There are so many Linux boxes available. http://v
 http://vagrantbox.es but unfortunately there is no centos 59 i386 box with LAMP stack is not available there. It happened to be most of my projects are in that environment so I created this box for me.
 
 ## Pre-requirement
-1)WinRAR(GitHub not allowing file size more than 100mb my box is around 300 MB so I had to split the box file)
-2) VirtualBox-4.3.20(http://download.virtualbox.org/virtualbox/4.3.20/VirtualBox-4.3.20-96997-Win.exe)
-3) Vagrant 1.7.3(https://dl.bintray.com/mitchellh/vagrant/vagrant_1.7.2.msi)
-4) git(http://git-scm.com/downloads).
-5) Admin privilege to modify hosts file
+1. WinRAR(GitHub not allowing file size more than 100mb my box is around 300 MB so I had to split the box file)
+2. VirtualBox-4.3.20(http://download.virtualbox.org/virtualbox/4.3.20/VirtualBox-4.3.20-96997-Win.exe)
+3. Vagrant 1.7.3(https://dl.bintray.com/mitchellh/vagrant/vagrant_1.7.2.msi)
+4. git(http://git-scm.com/downloads).
+5. Admin privilege to modify hosts file
 
 ##Getting Stated.
 Download above all in the same order and install them in the same order. Make sure all these tools are in path. If you don't know how to do it there as nice article about it in here (http://www.computerhope.com/issues/ch000549.htm)
