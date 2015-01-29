@@ -1,0 +1,17 @@
+{
+  "folders": [{
+      "map": "C:/path/to/projects",
+      "to": "/var/www/html"
+    }
+  ],
+  "sites": [{
+    "map": "sites1.local",
+    "to": "/var/www/html/sites1"
+  }, {
+    "map": "site2.local",
+    "to": "/var/www/html/site2"
+  }, {
+    "map": "phpmyadmin.local",
+    "to": "/var/www/html/phpMyAdmin"
+  }]
+}
